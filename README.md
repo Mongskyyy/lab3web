@@ -1,7 +1,7 @@
-# Lab3web
-# Nama : Muhammad Din Al Ayubi
-# Kelas : TI22A3
-# NIM : 312210293
+## Lab3Web
+## Nama : Ramadhan Ardi Iman Prakoso
+## NIM : 312210722
+## Kelas : TI22A3
 
 ## Modul Praktikum Pemrograman Web
 * Setiap elemen atau field form harus memiliki atribut name. Atribut name merupakan nama dari field yang akan menjadi kunci dan variabel di dalam program. Sedangkan atribut id, sifatnya opsional.
@@ -256,9 +256,9 @@
         <div class="dropdown">
             <button onclick="myFunction()" class="dropbtn">Menu</button>
             <div id="myDropdown" class="dropdown-content">
-            <a href="lab3_list.html">Membuat List</a>
-            <a href="lab3_tabel.html">Membuat Tabel</a>
-            <a href="lab3_form.html">Membuat Form</a>
+            <a href="lab3_list.html">Create List</a>
+            <a href="lab3_tabel.html">Create Tabel</a>
+            <a href="lab3_form.html">Create Form</a>
         </div>
     </div>
         <script>
@@ -284,13 +284,13 @@
         <hr>
         <form>
             <h2>Membuat listbox</h2>
-            <p>Daftar Menu Bar Bar Excrots Elektronik :</p>
+            <p>Daftar Menu ArrasyNet :</p>
             <select name="menu" size="4">
-                <option value="1">Laptop Asus 14</option>
-                <option value="1">Acer Nitro V 15</option>
-                <option value="1">Lenovo Ideapad Slim 5</option>
-                <option value="1">Apple MacBook Pro</option>
-                <option value="1">Hp ProBook 430 G8</option>
+                <option value="1">Jasa Pemasangan Wifi</option>
+                <option value="1">Jasa Pemasangan CCTV</option>
+                <option value="1">Jasa Pembuatan Website</option>
+                <option value="1">Jasa Pembuatan Program</option>
+                <option value="1">Jasa Service Komputer/Laptop</option>
             </select>
             <p><input type="submit" value="Pesan Sekarang!" /></p>
         </form>
